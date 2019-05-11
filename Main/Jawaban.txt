@@ -1,0 +1,7 @@
+1. Web Service adalah suatu jasa yang memungkinkan mesin untuk berkomunikasi satu-sama lain. Contohnya Async Javascript, 
+	XML, REST, Web API, dll.
+2. PHP interpreter adalah suati penerjemah yang menerjemahkan suatu query yang diketik oleh manusia dan menerjemahkannya
+	dalam bahasa yang mudah dimengerti mesin. Contohnya Zend engine.
+3. Database adalah suatu susunan data yang terorganisasi, disimpan dalam suatu sistem elektronik di dalam suatu komputer.
+	Ada jenis in-memory, active, cloud database, data warehouse, deductive, distributed, document-oriented, 
+	embedded database, dll.
