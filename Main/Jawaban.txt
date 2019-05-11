@@ -5,3 +5,5 @@
 3. Database adalah suatu susunan data yang terorganisasi, disimpan dalam suatu sistem elektronik di dalam suatu komputer.
 	Ada jenis in-memory, active, cloud database, data warehouse, deductive, distributed, document-oriented, 
 	embedded database, dll.
+
+Yoo!!!
